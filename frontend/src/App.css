@@ -1,0 +1,10 @@
+html, body{
+    color: #000;
+}
+
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}

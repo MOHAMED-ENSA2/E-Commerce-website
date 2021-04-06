@@ -1,0 +1,21 @@
+.product{
+    width: 19%;
+    height: 270px;
+    padding: 20px;
+    
+    margin-bottom: 20px;
+    border: 1px solid rgba(0,0,0,.125);
+    box-shadow: 0 1px 3px rgb(0 0 0 / 10%);
+}
+
+.product > a >img {
+   width: 100%;
+   height: 40%;
+}
+.product > a >h5 {
+    color: rgba(0,0,0,0.9);
+    margin-bottom: 10px;
+ }
+.rate{
+    color: rgba(0,0,0,0.6);
+}
