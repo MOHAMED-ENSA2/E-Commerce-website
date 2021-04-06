@@ -19,7 +19,7 @@
 .left{
     display: flex;
 }
-.left a{
+.logo-link{
     color: #fff;
 }
 .left > .search {
@@ -44,8 +44,9 @@
     font-size: 0.7em;
 }
 
-.right a{
+.right-link{
     color : rgb(255, 255, 255 , 0.7);
+    margin-left: 5px;
 
 }
 .right > .cart {

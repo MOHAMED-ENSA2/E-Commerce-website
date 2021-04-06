@@ -1,7 +1,9 @@
 .home{
     min-height: 80vh;
+    /* background-color: aquamarine; */
 }
 .products{
+    /* background-color: brown; */
     width: 80%;
     margin : 0 auto ;
     display: flex;
@@ -10,5 +12,5 @@
 }
 
 .products :nth-child(-n + 3){
-    margin-right: 2%;
+    margin-right:2%;
 }

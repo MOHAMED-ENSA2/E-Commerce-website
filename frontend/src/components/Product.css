@@ -8,11 +8,11 @@
     box-shadow: 0 1px 3px rgb(0 0 0 / 10%);
 }
 
-.product > a >img {
+.img-product {
    width: 100%;
    height: 40%;
 }
-.product > a >h5 {
+.name-product {
     color: rgba(0,0,0,0.9);
     margin-bottom: 10px;
  }
