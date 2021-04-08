@@ -1,6 +1,8 @@
 .productPage{
     width:  70% ;
-    margin: 0 auto;
+    margin-inline:  auto;
+    margin-top: 80px;
+    height: 80vh;
 }
 
 
